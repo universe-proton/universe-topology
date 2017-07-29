@@ -2,11 +2,11 @@
 universe-topology
 =================
 
-A universal knowledge topology connects all the computer science knowledge in the world.
+The universal knowledge topology connects all the computer science knowledge in the world.
 
-And all of us can open an issue to share your story or raise a question, discuss about it, and precipitate this as an avaiable knowledge.
+And all of us can open an issue to share your story or raise a question, discuss about it, and precipitate this as available knowledge.
 
-Gradually, we can build up a lot of nodes of knowledge, and finally build the topology.
+Gradually, we can build up a lot of nodes of knowledge, finally building the topology.
 
 
 What we can do
@@ -45,19 +45,19 @@ FAQ
 
   * How to contribute?
 
-It's easy and just open an [issue](https://github.com/universe-proton/universe-topology/issues).
+It's easy. You may just start by opening an [issue](https://github.com/universe-proton/universe-topology/issues).
 
 
   * Can I only use english?
 
-No, it depends on you. But we think that it's more friendly to use a common language like english, and all programmers can benift from this.
+No, it depends on you. But we think that it's more friendly to use a common language like english, and all programmers can benift from it.
 
 
-  * Is there any limitations about programming language?
+  * Are there any limits in programming language?
 
-No, all programming language are welcomed.
+No, all programming languages are welcomed.
 
 
-  * Why I should use issue than document file?
+  * Why must I use issue here rather than document file?
 
-We hope that you can easily raise something rather than writing a document file and discuss in an independent context.
+Because it's easier to raise something than write a document file and we hope all of use can discuss about the issue in an independent context.
