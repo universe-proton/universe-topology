@@ -21,23 +21,24 @@ Content
 Python
 ------
 
-  * <https://github.com/universe-proton/universe-topology/issues/2>
+  * [Don't need to join non-daemon threads in Python?](https://github.com/universe-proton/universe-topology/issues/2)
 
-  * <https://github.com/universe-proton/universe-topology/issues/3>
+  * [Why Python 3 can call unbound method with an instance object of another type as the first argument?](https://github.com/universe-proton/universe-topology/issues/3)
 
-  * <https://github.com/universe-proton/universe-topology/issues/5>
+  * [How to write a decorator for generator function in Python?](https://github.com/universe-proton/universe-topology/issues/5)
 
+  * [Direct variable reference as function argument runs faster?](https://github.com/universe-proton/universe-topology/issues/6)
 
 pytest
 ------
 
-  * <https://github.com/universe-proton/universe-topology/issues/4>
+  * [How to elegantly specify fixture usage at the test module level in pytest?](https://github.com/universe-proton/universe-topology/issues/4)
 
 
 Protobuf
 --------
 
-  * <https://github.com/universe-proton/universe-topology/issues/1>
+  * [ListFields method doesn't return field with default value in Python Protobuf 3](https://github.com/universe-proton/universe-topology/issues/1)
 
 
 FAQ
