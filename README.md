@@ -9,10 +9,10 @@ And all of us can open an issue to share your story or raise a question, discuss
 Gradually, we can build up a lot of nodes of knowledge, finally building the topology.
 
 
-What we can do
-===============
+What will we build
+===================
 
-All kinds of opinions on computer science are welcomed.
+All opinions and knowledge about computer science are welcomed. With the worldwide people's effort, we can exchange and inspect what we know and don't know, and we will build a huge topology, which can be used to fed more.
 
 
 Content
@@ -40,6 +40,11 @@ Protobuf
 
   * [ListFields method doesn't return field with default value in Python Protobuf 3](https://github.com/universe-proton/universe-topology/issues/1)
 
+
+Linux
+------
+
+  * [Why command rm doesn't reclaim disk space in Linux](https://github.com/universe-proton/universe-topology/issues/9)
 
 FAQ
 ===
