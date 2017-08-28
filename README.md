@@ -29,6 +29,8 @@ Python
 
   * [Direct variable reference as function argument runs faster?](https://github.com/universe-proton/universe-topology/issues/6)
 
+  * [Why name refers to a function within a class is interpreted as an instancemethod in Python 2 rather a general function in Python 3?](https://github.com/universe-proton/universe-topology/issues/10)
+
 pytest
 ------
 
