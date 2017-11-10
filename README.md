@@ -55,6 +55,13 @@ Linux
 
   * [Why command rm doesn't reclaim disk space in Linux](https://github.com/universe-proton/universe-topology/issues/9)
 
+
+MySQL
+------
+
+  * [Why MySQL limits prefix key field length in multi column index?](https://github.com/universe-proton/universe-topology/issues/7)
+
+
 FAQ
 ===
 
