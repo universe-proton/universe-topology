@@ -37,6 +37,7 @@ Python
 
   * [What's the difference between local variable, cell variable and free variable?](https://github.com/universe-proton/universe-topology/issues/15)
 
+  * [How the write function in python runs as fast as that in c?](https://github.com/universe-proton/universe-topology/issues/16)
 
 pytest
 ------
